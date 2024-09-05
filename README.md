@@ -30,7 +30,7 @@ Hence, this dataset is designed to support research and development in biomedica
 - **Size**: 311 questions
 - **Format**: Binary (True/False) questions
 
-## Use data in python
+## Access data using Hugging Face
 
 Following snippet shows how to load data in python
 
